@@ -1,1 +1,2 @@
 thay doi branch issue1
+chuyen sang branch issue2
